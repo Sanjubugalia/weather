@@ -1,0 +1,94 @@
+.divstyle{
+    background-color: rgb(102, 189, 227);
+    width: 800px;
+    height: 500px;
+    /* box-shadow: 4px 4px 5px 5px rgb(128, 159, 183); */
+    margin-left: 400px;
+    margin-top: 80px;
+    position: relative;
+    border-radius: 10px;
+    font-family:"jost",sans-serif;
+    opacity: 0.7;
+    
+}
+.bgcolor{
+    background-color: rgb(241, 242, 243);
+}
+.heading{
+    margin-left: 32%;
+    margin-top: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    opacity: 0.4;
+    color: rgb(15, 105, 150);
+
+}
+.head1{
+    margin-top: 20px;
+    margin-left: 30%;
+
+}
+
+.head2{
+    margin-left: 20%;
+    margin-top: 25px;
+    margin-bottom: 80px;
+    
+}
+.containerstyle{
+    position: absolute;
+    
+}
+.bgimg{
+    width: 100%;
+    height: auto;
+    position: absolute;
+}
+
+.inputtype{
+    width: 700px;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-left: 60px;
+    border-color: rgb(65, 178, 253);
+    font-weight: 500px;
+    background-color: rgb(225, 242, 248);
+
+
+}
+
+.gifstyle{
+    width: 800px;
+    height: 220px;
+}
+.location{
+    margin-top: 60px;
+    margin-left: 30%;
+    padding: 15px;
+}
+.temp{
+    margin-left: 40%;
+}
+.temp-max{
+    margin-left: 30%;
+}
+.divhead{
+    float: right;
+}
+.datestyle{
+    float: right;
+    color: white;
+    background-color: black;
+   
+}
+.timestyle{
+    float: left;
+    color: white;
+    background-color: black;
+}
+.bgblack{
+    background-color: black;
+    height: 35px;
+    width: auto;
+}
